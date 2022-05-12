@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": "9406b7c0-ae1d-4f01-a623-696d0f053408",
+            "title": "TV Sharp E-203",
+            "desc": "Best option for family watch movies.",
+            "price": 125
+        },
+        {
+            "id": "b3f070e8-5b58-439b-8ca5-dc6dfabe22fe",
+            "title": "TV Panasonic PE-1156-A",
+            "desc": "For a huge studio is the best solution.",
+            "price": 322
+        },
+        {
+            "id": "0055dcc2-c47e-450a-93f7-167fe487c527",
+            "title": "TV LG L-505-RE",
+            "desc": "Playing games, just connect your console and enjoy.",
+            "price": 116
+        }
+    ]
+}
